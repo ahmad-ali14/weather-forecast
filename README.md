@@ -1,6 +1,9 @@
 # weather-forecast
+Fully Working React Component with it's supportive server route code.
 
-## live here 
+This project uses `darksky API` to grap weather data, and `MAPQUEST API` for getting user geolocation data.
+
+## You can find a live example here
 https://www.ahmad-ali.co.uk/api/s/forecast
 
 ## Repository map
