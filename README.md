@@ -11,8 +11,8 @@ https://www.ahmad-ali.co.uk/api/s/forecast
 2. `forecast_router.js` : Express router backend for the react component.
 
 ## Third party APIs:
-1. darksky API.
-2. Mapquest API.
+1. darksky API: https://darksky.net/dev
+2. Mapquest API: https://developer.mapquest.com/documentation/geocoding-api/
 
 ## usage
 1. insert `forecast_router.js` into your server routes.
